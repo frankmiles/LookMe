@@ -1,0 +1,2 @@
+rootProject.name = "LookMe"
+include ':app'
